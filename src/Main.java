@@ -7,6 +7,9 @@ public class Main {
         System.out.printf("Hello and welcome!");
         String message = "I have a";
         String message2 = "This is a new message";
+        // this is a note to see if i can do github good
+
+
 
         System.out.print("\n" + message + "\n" + message2 );
 
